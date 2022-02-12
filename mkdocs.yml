@@ -1,0 +1,24 @@
+site_name: School
+site_url: https://zendikit.school
+site_description: Zendikit educational material
+site_author: Zendikit
+
+docs_dir: src
+site_dir: docs
+
+theme:
+  name: material
+  palette:
+    primary: white
+
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+
+plugins:
+  - search
+
+extra:
+  social:
+    - icon: fontawesome/solid/barcode
+      link: https://zendikit.work
