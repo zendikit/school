@@ -10,7 +10,7 @@ nav:
   - Home: 'index.md'
   - Japanese:
       - Grammar:
-        - Organization: 'japanese/grammar/organization.md'
+        - Introduction: 'japanese/grammar/introduction.md'
         - N5: 'japanese/grammar/n5.md'
 
 theme:
