@@ -3,7 +3,7 @@ site_url: https://zendikit.school
 site_description: Zendikit educational material
 site_author: Zendikit
 
-docs_dir: src
+docs_dir: site
 site_dir: docs
 
 nav:
