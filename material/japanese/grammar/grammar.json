@@ -1,0 +1,49 @@
+{
+  "points": [
+    {
+      "level": "n5",
+      "name": "あげる",
+      "meaning": "An auxiliary verb indicating that the speaker gives something or some action to someone else. When speaking to someone of lower status, あげるcan be replaced with やる. The honorific form is さしあげる.",
+      "example_sentences": [
+        {
+          "jp": "日本語を教えて<em>あげます</em>。",
+          "en": "I will teach you Japanese."
+        },
+        {
+          "jp": "この本を<em>あげます</em>。",
+          "en": "I'll <em>give</em> you this book."
+        }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "あとで",
+      "meaning": "A conjunction indicating that something takes place after something else.",
+      "example_sentences": [
+        {
+          "jp": "日本語を勉強した<em>後で</em>寝ました。",
+          "en": "I slept <em>after</em> studying Japanese."
+        },
+        {
+          "jp": "クラスの<em>後で</em>帰りました。",
+          "en": "I went home <em>after</em> class."
+        }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "か",
+      "meaning": "A grammar particle which indicates an alternative.",
+      "exapmle_sentences": [
+        {
+          "jp": "私は英語<em>か</em>日本語を勉強します。",
+          "en": "I will study either Japanese <em>or</em> English."
+        },
+        {
+          "jp": "明日授業がある<em>か</em>ないか分かりません。",
+          "en": "I don't know whether there is class tomorrow <em>or</em> not."
+        }
+      ]
+    }
+  ]
+}
