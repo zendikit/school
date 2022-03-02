@@ -6,12 +6,12 @@
       "meaning": "An auxiliary verb indicating that the speaker gives something or some action to someone else. When speaking to someone of lower status, あげるcan be replaced with やる. The honorific form is さしあげる.",
       "example_sentences": [
         {
-          "jp": "日本語を教えて<em>あげます</em>。",
+          "jp": "日本語を教えて<strong>あげます</strong>。",
           "en": "I will teach you Japanese."
         },
         {
-          "jp": "この本を<em>あげます</em>。",
-          "en": "I'll <em>give</em> you this book."
+          "jp": "この本を<strong>あげます</strong>。",
+          "en": "I'll <strong>give</strong> you this book."
         }
       ]
     },
@@ -21,12 +21,12 @@
       "meaning": "A conjunction indicating that something takes place after something else.",
       "example_sentences": [
         {
-          "jp": "日本語を勉強した<em>後で</em>寝ました。",
-          "en": "I slept <em>after</em> studying Japanese."
+          "jp": "日本語を勉強した<strong>後で</strong>寝ました。",
+          "en": "I slept <strong>after</strong> studying Japanese."
         },
         {
-          "jp": "クラスの<em>後で</em>帰りました。",
-          "en": "I went home <em>after</em> class."
+          "jp": "クラスの<strong>後で</strong>帰りました。",
+          "en": "I went home <strong>after</strong> class."
         }
       ]
     },
@@ -34,14 +34,122 @@
       "level": "n5",
       "name": "か",
       "meaning": "A grammar particle which indicates an alternative.",
-      "exapmle_sentences": [
+      "example_sentences": [
         {
-          "jp": "私は英語<em>か</em>日本語を勉強します。",
-          "en": "I will study either Japanese <em>or</em> English."
+          "jp": "私は英語<strong>か</strong>日本語を勉強します。",
+          "en": "I will study either Japanese <strong>or</strong> English."
         },
         {
-          "jp": "明日授業がある<em>か</em>ないか分かりません。",
-          "en": "I don't know whether there is class tomorrow <em>or</em> not."
+          "jp": "明日授業がある<strong>か</strong>ないか分かりません。",
+          "en": "I don't know whether there is class tomorrow <strong>or</strong> not."
+        }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "かた",
+      "meaning": "A nominalizing suffix indicating a way of doing something.",
+      "example_sentences": [
+        {
+          "jp": "その漢字の書き<strong>方</strong>が分かりません。",
+          "en": "I don't know <strong>how to</strong> write that kanji."
+        }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "から",
+      "meaning": "A conjunction indicating a reason or cause.",
+      "example_sentences": [
+        {
+          "jp": "日本へ行く<strong>から</strong>日本語を勉強する。",
+          "en": "I'm studying Japanese <strong>because</strong> I'm going to Japan next year."
+        },
+        {
+          "jp": "高かった<strong>から</strong>買いませんでした。",
+          "en": "I didn't buy it <strong>because</strong> it was expensive."
+        }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "から",
+      "meaning": "A conjunction indicating after or since something takes place.",
+      "example_sentences": [
+        {
+          "jp": "日本語を勉強して<strong>から</strong>全部を忘れました。",
+          "en": "<strong>After</strong> studying Japanese, I forgot everything."
+        }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "くらい",
+      "meaning": "A particle indicating an approximate quantity or otherwise translated as \"about.\" ぐらい has the same meaning.",
+      "example_sentences": [
+        {
+          "jp": "百五十円<strong>くらい</strong>でした。",
+          "en": "It was <strong>about</strong> 150 yen."
+        },
+        {
+          "jp": "二時間<strong>くらい</strong>かかります。",
+          "en": "It takes <strong>about</strong> 2 hours."
+        }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "くれる",
+      "meaning": "An auxiliary verb indicating that someone gives something or does some action for someone else. The honorific form is くださる.",
+      "example_sentences": [
+        {
+          "jp": "彼は日本語を教えて<strong>くれました</strong>。",
+          "en": "He taught me Japanese."
+        },
+        {
+          "jp": "彼はこの本を<strong>くれました</strong>。",
+          "en": "He <strong>gave</strong> me this book."
+        }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "こと",
+      "meaning": "A nominalizer; it suggests the speaker is not as emotionally close to the concept compared to if the speaker had used の.",
+      "example_sentences": [
+        {
+          "jp": "日本語で書く<strong>こと</strong>は難し。",
+          "en": "It's difficult <strong>to</strong> write in Japanese."
+        }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "こんな",
+      "meaning": "A word meaning \"such a thing\" or \"this sort of thing.\" It can be adjusted for proximity to the speaker (そんな、あんな) or be made inquisitive (どんな).",
+      "example_sentences": [
+        {
+          "jp": "<strong>こんな</strong>本を買いたいです。",
+          "en": "I'd like to buy a book <strong>like this</strong>."
+        },
+        {
+          "jp": "<strong>そんな</strong>ことしないでよ！",
+          "en": "Don't do <strong>such a thing</strong>!"
+        }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "こんなに",
+      "meaning": "A word meaning \"like this.\" It can be adjusted for proximity to the speaker (そんなに、あんなに).",
+      "example_sentences": [
+        {
+          "jp": "<strong>そんなに</strong>難しかった？",
+          "en": "Was it <strong>that</strong> difficult?"
+        },
+        {
+          "jp": "<strong>こんなに</strong>美味しいこと誰でも好きです。",
+          "en": "Anyone likes something delicious <strong>like this</strong>."
         }
       ]
     }
