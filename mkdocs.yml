@@ -12,6 +12,7 @@ nav:
       - Grammar:
         - Introduction: 'japanese/grammar/introduction.md'
         - N5: 'japanese/grammar/n5.md'
+        - N4: 'japanese/grammar/n4.md'
 
 theme:
   name: material
