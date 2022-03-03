@@ -152,6 +152,141 @@
           "en": "Anyone likes something delicious <strong>like this</strong>."
         }
       ]
+    },
+    {
+      "level": "n5",
+      "name": "さ",
+      "meaning": "A nominalizing suffix attachable to the stem of adjectives.",
+      "example_sentences": [
+        {
+          "jp": "日本語の難し<strong>さ</strong>がよく分かってる。",
+          "en": "I know the <strong>difficulty</strong> of Japanese."
+        }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "しか",
+      "meaning": "A particle indicating that something S and only S is the case, often translated as \"nothing,\" \"nobody,\" or \"only.\"",
+      "example_sentences": [
+        {
+          "jp": "日本語<strong>しか</strong>勉強しません。",
+          "en": "I study <strong>only</strong> Japanese."
+        }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "すぐ",
+      "meaning": "An adverb indicating not much temporal or physical distance, often translated as \"as soon as,\" \"immediately,\" \"right.\"",
+      "example_sentences": [
+        {
+          "jp": "朝起きて<strong>すぐ</strong>に日本語を勉強します。",
+          "en": "<strong>As soon as</strong> I wake up, I study Japanese."
+        },
+        {
+          "jp": "学校は駅の<strong>すぐ</strong>前です。",
+          "en": "The school is <strong>right</strong> in front of the station."
+        }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "たい",
+      "meaning": "An auxiliary adjective indicating the desire to do something.",
+      "example_sentences": [
+        {
+          "jp": "私は日本語を勉強し<strong>たい</strong>です。",
+          "en": "I <strong>want</strong> to study Japanese."
+        },
+        {
+          "jp": "私は刺身を食べ<strong>たい</strong>です。",
+          "en": "I <strong>want</strong> to eat sashimi."
+        }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "だけ",
+      "meaning": "A particle expressing a limit on something, often translated as \"just,\" \"merely,\" \"only,\" or \"that's all.\"",
+      "example_sentences": [
+        {
+          "jp": "日本語が勉強した<strong>だけ</strong>です。",
+          "en": "I <strong>just</strong> studied (and did nothing else with) Japanese."
+        },
+        {
+          "jp": "私<strong>だけ</strong>日本語を話せます。",
+          "en": "<strong>Only</strong> I can speak Japanese."
+        }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "ため",
+      "meaning": "A noun expressing a purpose, reason, or cause.",
+      "example_sentences": [
+        {
+          "jp": "試験の<strong>ため</strong>に勉強します。",
+          "en": "I'm studying <strong>in preparation for</strong> exams."
+        },
+        {
+          "jp": "日本語を勉強する<strong>ため</strong>に日本に行きます。",
+          "en": "I'm going to Japan <strong>in order to</strong> study Japanese."
+        },
+        {
+          "jp": "病気になった<strong>ため</strong>、クラスに行かなかった。",
+          "en": "<strong>Because</strong> I got sick, I didn't go to class."
+        }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "って",
+      "meaning": "A colloquial particle indicating a quotation.",
+      "example_sentences": [
+        {
+          "jp": "彼女は日本語を勉強する<strong>って</strong>言った。",
+          "en": "She said she studies Japanese."
+        },
+        {
+          "jp": "私は日本語を勉強しようか<strong>って</strong>思います。",
+          "en": "I wonder if I should study Japanese."
+        }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "て",
+      "meaning": "A verb or i-adjective ending indicating \"and.\" For na-adjectives and nouns, て becomes で instead.",
+      "example_sentences": [
+        {
+          "jp": "私は日本へ行っ<strong>て</strong>勉強しました。",
+          "en": "I went to Japan <strong>and</strong> studied."
+        },
+        {
+          "jp": "これは高く<strong>て</strong>美味しい。",
+          "en": "This is expensive <strong>and</strong> delicious."
+        },
+        {
+          "jp": "彼は先生<strong>で</strong>優しい。",
+          "en": "He is a teacher, <strong>and</strong> he is nice."
+        }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "で",
+      "meaning": "A grammar particle which indicates the use of something for doing something.",
+      "example_sentences": [
+        {
+          "jp": "日本人ははし<strong>で</strong>食べます。",
+          "en": "Japanese people eat <strong>with</strong> chopsticks."
+        },
+        {
+          "jp": "これは日本語<strong>で</strong>何ですか。",
+          "en": "What is this <strong>in</strong> Japanese?"
+        }
+      ]
     }
   ]
 }
