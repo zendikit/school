@@ -17,7 +17,8 @@ To see full usage: `python3 to_csv.py -h`.
 
 The row schema is as follows, where each point is a field in a row:
 
-1. Sort: (int) monotonically-increasing ID; you can order by this in Anki
+1. Sort: (str) you can order by this in Anki; n5 material comes first, then n4,
+   etc.
 1. Level: (str) the approximate JLPT level corresponding to the grammar point
 1. Name: (str) the Japanese grammar point itself (ex: くらい)
 1. Meaning: (str) the English meaning of the grammar point
