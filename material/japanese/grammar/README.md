@@ -108,9 +108,3 @@ td[class^="label"] {
   width: 25%;
 }
 ```
-
-## Known Issues
-
-If you change the order of elements in the JSON `points` array, `to_csv.py`
-will assign different `Sort` IDs to points, and if you import these as-is into
-Anki, you will overwrite one grammar point's card with content from another.
