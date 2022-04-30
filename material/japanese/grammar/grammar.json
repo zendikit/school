@@ -287,6 +287,472 @@
           "en": "What is this <strong>in</strong> Japanese?"
         }
       ]
+    },
+    {
+      "level": "n5",
+      "name": "でしょう",
+      "meaning": "An auxiliary indicating conjecture grounded in no substantial evidence. だろう is the informal form.",
+      "example_sentences": [
+        {
+          "jp": "彼は日本語で話す<strong>でしょう</strong>。",
+          "en": "He will <strong>probably</strong> speak in Japanese."
+        },
+        {
+          "jp": "この本は高い<strong>だろう</strong>。",
+          "en": "This book is <strong>probably</strong> expensive."
+        }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "でも",
+      "meaning": "A particle meaning \"even.\"",
+      "example_sentences": [
+        {
+          "jp": "日本語<strong>でも</strong>話せます。",
+          "en": "I can speak <strong>even</strong> Japanese."
+        },
+        {
+          "jp": "子供<strong>でも</strong>そのことをできます。",
+          "en": "<strong>Even</strong> a child can do that."
+        }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "と",
+      "meaning": "A grammar particle indicating a reciprocal relationship with the subject.",
+      "example_sentences": [
+        {
+          "jp": "私はあなた<strong>と</strong>日本語を勉強します。",
+          "en": "I study Japanese <strong>with</strong> you."
+        },
+        {
+          "jp": "私は日本人<strong>と</strong>結婚しました。",
+          "en": "I (got) married (<strong>to</strong>) a Japanese person."
+        }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "どう",
+      "meaning": "A grammar particle which asks about the state of something or someone or the way of doing something.",
+      "example_sentences": [
+        {
+          "jp": "日本語で<strong>どう</strong>言いますか。",
+          "en": "<strong>How</strong> do you say it in Japanese?"
+        },
+        {
+          "jp": "本は<strong>どう</strong>でしたか。",
+          "en": "<strong>How</strong> was the book?"
+        }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "と同じくらい〜",
+      "meaning": "A phrase indicating that one thing is as 〜 as another.",
+      "example_sentences": [
+        {
+          "jp": "この本はその本<strong>と同じくらい</strong>面白い。",
+          "en": "This book is <strong>as</strong> interesting <strong>as</strong> that one."
+        }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "とき",
+      "meaning": "A dependent noun indicating a time when someone or something did or does something.",
+      "example_sentences": [
+        {
+          "jp": "日本語を勉強する<strong>時</strong>本をたくさん読みます。",
+          "en": "<strong>When</strong> I study Japanese I read a lot of books."
+        },
+        {
+          "jp": "静かな<strong>時</strong>勉強できます。",
+          "en": "I'm able to study <strong>when</strong> it's quiet."
+        }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "どちら",
+      "meaning": "A word meaning \"which,\" among a group of things, particularly two.",
+      "exaple_sentences": [
+        {
+          "jp": "日本語と英語と、<strong>どちら</strong>が面白い？",
+          "en": "Between Japanese and English, <strong>which</strong> is more interesting?"
+        }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "どれ",
+      "meaning": "A word meaning \"which,\" among a group of 3 or more.",
+      "example_sentences": [
+        {
+          "jp": "黄色と紫色と青色で、<strong>どれ</strong>が一番美しいですか。",
+          "en": "Between yellow, purple, and blue, <strong>which</strong> is the most beautiful?"
+        }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "ないで",
+      "meaning": "A negative te-form indicating not doing something or without doing something.",
+      "example_sentences": [
+        {
+          "jp": "勉強し<strong>ないで</strong>学校へ来ました。",
+          "en": "I came to school <strong>without</strong> studying."
+        }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "なさい",
+      "meaning": "An auxiliary verb which creates an imperative.",
+      "example_sentences": [
+        {
+          "jp": "日本語を勉強し<strong>なさい</strong>。",
+          "en": "Study Japanese."
+        }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "ながら",
+      "meaning": "A conjunction indicating the surrounding clauses happen simultaneously, often translated as \"while\" or \"with.\"",
+      "example_sentences": [
+        {
+          "jp": "本を読み<strong>ながら</strong>学校へ歩きました。",
+          "en": "I walked to school <strong>while</strong> reading a book."
+        }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "なる",
+      "meaning": "A word meaning \"to become\" or \"come to be.\"",
+      "example_sentences": [
+        {
+          "jp": "あなたの日本語が上手に<strong>なりました</strong>。",
+          "en": "You've <strong>become</strong> good at Japanese."
+        },
+        {
+          "jp": "寒く<strong>なりました</strong>。",
+          "en": "It's <strong>become</strong> cold."
+        }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "に",
+      "meaning": "A particle indicating the purpose of movement. This construct is only used with motion verbs like 行く, 来る, 帰る, 入る, and 出る.",
+      "example_sentences": [
+        {
+          "jp": "日本語を勉強（し）<strong>に</strong>学校へ行きます。",
+          "en": "I'm going to school <strong>(in order) to</strong> study Japanese."
+        },
+        {
+          "jp": "本を買い<strong>に</strong>来ました。",
+          "en": "I came <strong>(in order) to</strong> buy a book."
+        }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "の",
+      "meaning": "A dependent, indefinite pronoun indicating \"one\" or \"_'s.\"",
+      "example_sentences": [
+        {
+          "jp": "本は日本語<strong>の</strong>を買いました。",
+          "en": "As for books, I bought a Japanese <strong>one</strong>."
+        },
+        {
+          "jp": "あの本はトム<strong>の</strong>です。",
+          "en": "That book is Tom's <strong>book</strong>."
+        }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "の",
+      "meaning": "An informal sentence-final particle indicating an explanation or asking for an explanation, used by children or female speakers. If male speakers use it, it is only for questions.",
+      "example_sentences": [
+        {
+          "jp": "どうして勉強している<strong>の</strong>？",
+          "en": "Why are you studying (<strong>you've got to tell me</strong>)?"
+        },
+        {
+          "jp": "明日テストがある<strong>の</strong>。",
+          "en": "<strong>Because</strong> there's a test tomorrow."
+        }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "の",
+      "meaning": "A clause nominalizer.",
+      "example_sentences": [
+        {
+          "jp": "勉強する<strong>の</strong>は難しい。",
+          "en": "Studying is difficult."
+        },
+        {
+          "jp": "彼が日本語を話す<strong>の</strong>を聞きました。",
+          "en": "I heard him speaking Japanese."
+        }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "のです",
+      "meaning": "A sentence-ending phrase indicating an explanation or asking for an explanation. An informal form is んです.",
+      "example_sentences": [
+        {
+          "jp": "何をしている<strong>んです</strong>か。",
+          "en": "What are you doing (<strong>you've got to tell me</strong>)?"
+        },
+        {
+          "jp": "日本語を勉強している<strong>のです</strong>。",
+          "en": "(<strong>The explanation is that</strong>) I'm studying Japanese."
+        }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "ばかり",
+      "meaning": "A particle indicating that something is the only state, thing, or action.",
+      "example_sentences": [
+        {
+          "jp": "日本語<strong>ばかり</strong>勉強しています。",
+          "en": "I'm studying <strong>only</strong> Japanese."
+        },
+        {
+          "jp": "私は勉強した<strong>ばかり</strong>です。",
+          "en": "I studied and <strong>haven't done anything else</strong>."
+        }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "ほう",
+      "meaning": "A word indicating more than or greater in a comparison. It comes from the form ほうが〜より.",
+      "example_sentences": [
+        {
+          "jp": "あなたの本はどっちですか。<br /> 大きい<strong>ほう</strong>です。",
+          "en": "Which book is yours?<br />The <strong>bigger</strong> one."
+        },
+        {
+          "jp": "好きな<strong>ほう</strong>を取ってください。",
+          "en": "Please take the one you like <strong>most</strong>."
+        }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "ほうが〜より",
+      "meaning": "A phrase for comparing two things, where one is more or greater than the other.",
+      "example_sentences": [
+        {
+          "jp": "日本語の<strong>ほうが</strong>英語<strong>より</strong>面白い。",
+          "en": "Japanese is <strong>more</strong> interesting <strong>than</strong> English."
+        },
+        {
+          "jp": "遊ぶ<strong>ほうが</strong>勉強する<strong>より</strong>楽しい。",
+          "en": "Playing is <strong>more</strong> fun <strong>than</strong> studying."
+        }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "ほど",
+      "meaning": "A particle indicating an extent or degree, often translated as \"[not] as ~ as ~.\"",
+      "example_sentences": [
+        {
+          "jp": "英語は日本語<strong>ほど</strong>面白くない。",
+          "en": "English is not <strong>as</strong> interesting <strong>as</strong> Japanese."
+        }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "まえに (前に)",
+      "meaning": "A conjunction indicating in front of or before something occurs.",
+      "example_sentences": [
+        {
+          "jp": "寝る<strong>前に</strong>日本語を勉強します。",
+          "en": "I study Japanese <strong>before</strong> I sleep."
+        },
+        {
+          "jp": "テストの<strong>前に</strong>勉強します。",
+          "en": "I'll study <strong>before</strong> the test."
+        }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "まだ",
+      "meaning": "An adverb indicating that someone or something is still in a state they were previously in, often translated as \"still\" or \"(not) yet.\"",
+      "example_sentences": [
+        {
+          "jp": "<strong>まだ</strong>日本語を分かりません。",
+          "en": "I <strong>still</strong> don't understand Japanese."
+        },
+        {
+          "jp": "私は<strong>まだ</strong>勉強しています。",
+          "en": "I'm <strong>still</strong> studying."
+        }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "〜ましょう",
+      "meaning": "A formal volitional verb ending indicating the speaker's intent or invitation to do something.",
+      "example_sentences": [
+        {
+          "jp": "日本語を勉強し<strong>ましょう</strong>。",
+          "en": "<strong>Let's</strong> study Japanese."
+        },
+        {
+          "jp": "日本語を勉強し<strong>ましょう</strong>か。",
+          "en": "<strong>Shall we</strong> study Japanese?"
+        }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "〜ませんか",
+      "meaning": "The formal negative question form of a verb can be used to extend an invitation formally.",
+      "example_sentences": [
+          {
+            "jp": "日本語を勉強し<strong>ませんか</strong>。",
+            "en": "<strong>Would you like to</strong> study Japanese?"
+          }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "〜ませんか",
+      "meaning": "The informal non-past negative form of a verb can be used to extend an invitation informally.",
+      "example_sentences": [
+        {
+          "jp": "一緒に勉強し<strong>ない？</strong>",
+          "en": "<strong>Wanna</strong> study together?"
+        }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "まで",
+      "meaning": "A grammar particle which indicates a spacial or temporal limit.",
+      "example_sentences": [
+        {
+          "jp": "私は五時<strong>まで</strong>日本語を勉強します。",
+          "en": "I will study Japanese <strong>until</strong> 5 o'clock."
+        },
+        {
+          "jp": "東京<strong>まで</strong>3時間かかります。",
+          "en": "It takes 3 hours <strong>until</strong> Tokyo."
+        }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "もう",
+      "meaning": "An adverb indicating that someone or something is no longer in a state they were previously in, often translated as \"already\" or \"(not) any longer.\"",
+      "example_sentences": [
+        {
+          "jp": "<strong>もう</strong>日本語を勉強しましたか。",
+          "en": "Have you <strong>already</strong> studied Japanese?"
+        },
+        {
+          "jp": "<strong>もう</strong>本がありません。",
+          "en": "I don't have the book <strong>anymore</strong>."
+        }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "もらう",
+      "meaning": "An auxiliary verb indicating that the speaker or someone else receives something or some benefit from an action from someone else. The honorific form is いただく.",
+      "example_sentences": [
+        {
+          "jp": "友達はこの本を買って<strong>もらいました</strong>。",
+          "en": "My friend bought me this book."
+        },
+        {
+          "jp": "友達にこの本を<strong>もらいました</strong>。",
+          "en": "I <strong>received</strong> this book from my friend."
+        }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "よう",
+      "meaning": "An informal volitional verb ending indicating the speaker's intent or invitation to do something.",
+      "example_sentences": [
+        {
+          "jp": "日本語を勉強し<strong>よう</strong>。",
+          "en": "<strong>Let's</strong> study Japanese."
+        },
+        {
+          "jp": "地球を守<strong>ろう</strong>。",
+          "en": "<strong>Let's</strong> protect the Earth."
+        }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "ようとおもう (ようと思う)",
+      "meaning": "A phrase indicating that the speaker desires to do something. The negative form is まいと思う.",
+      "example_sentences": [
+        {
+          "jp": "日本語を勉強し<strong>ようと思います</strong>。",
+          "en": "I think I'll study Japanese."
+        },
+        {
+          "jp": "英語で話す<strong>まいと思います</strong>。",
+          "en": "I think I won't speak in English."
+        }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "られる",
+      "meaning": "An auxiliary verb indicating the potential to do something.",
+      "example_sentences": [
+        {
+          "jp": "漢字を読<strong>める</strong>。",
+          "en": "I <strong>can</strong> read kanji."
+        },
+        {
+          "jp": "刺身を食べ<strong>られます</strong>。",
+          "en": "I <strong>can</strong> eat sashimi."
+        }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "を",
+      "meaning": "A grammar particle indicating a direct object.",
+      "example_sentences": [
+        {
+          "jp": "私は日本語<strong>を</strong>勉強します。",
+          "en": "I study Japanese."
+        }
+      ]
+    },
+    {
+      "level": "n5",
+      "name": "を",
+      "meaning": "A grammar particle indicating a space through or along which someone or something moves.",
+      "example_sentences": [
+        {
+          "jp": "私は公園<strong>を</strong>歩きました。",
+          "en": "I walked <strong>through</strong> the park."
+        }
+      ]
     }
   ]
 }
