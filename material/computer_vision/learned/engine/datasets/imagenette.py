@@ -8,13 +8,15 @@ from typing import Dict, List, NamedTuple, Tuple
 import torchvision
 from PIL import Image
 
+from engine.visualizer import Visualizable, VisualizerSample
+
 
 class _PathAndClass(NamedTuple):
     path: str
     cls: str
 
 
-class Imagenette(Sequence):
+class Imagenette(Sequence, Visualizable):
     def __init__(self, config: Dict, training: bool):
         """
         @p config A configuration dictionary. The nested key `dataset.path` is
@@ -76,6 +78,7 @@ class Imagenette(Sequence):
                 "targets": The class of the object in the `inputs` tensor.
         """
         assert index < len(self), "Positive index out of range."
+
         with Image.open(self._data[index].path) as img:
             img_tensor = self._to_tensor(img)
 
@@ -83,3 +86,17 @@ class Imagenette(Sequence):
             "inputs": img_tensor,
             "targets": self._class_remapper[self._data[index].cls],
         }
+
+    def get_visualizer_sample(self, index: int) -> VisualizerSample:
+        """
+        @p index An index into a dataset. Positive numbers must be less than
+                 len(dataset).
+        @return A dataset sample prepared for use in the engine's visualizer.
+        """
+        assert index < len(self), "Positive index out of range."
+
+        sample = self[index]
+        image = sample["inputs"].permute(1, 2, 0).numpy()
+        text = f"index: {index}; class: {sample['targets']}"
+
+        return VisualizerSample(image, text)
