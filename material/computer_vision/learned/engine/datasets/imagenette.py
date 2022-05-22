@@ -26,8 +26,6 @@ class Imagenette(Sequence, Visualizable):
         """
         csv_pathname = config["dataset"]["path"]
 
-        self._base_dir = os.path.dirname(csv_pathname)
-
         self._class_remapper = {
             "n01440764": "tench",
             "n02102040": "english_springer",
@@ -41,7 +39,6 @@ class Imagenette(Sequence, Visualizable):
             "n03888257": "parachute",
         }
 
-        # Each tuple holds (path_to_image, image_class).
         self._data: List[_PathAndClass] = []
         self._to_tensor = torchvision.transforms.ToTensor()
 
@@ -52,6 +49,8 @@ class Imagenette(Sequence, Visualizable):
             class_idx = 1
             valid_idx = 6
 
+            base_dir = os.path.dirname(csv_pathname)
+
             reader = csv.reader(f)
             next(reader)  # Skip the first (header) row.
 
@@ -61,7 +60,7 @@ class Imagenette(Sequence, Visualizable):
                 if training and is_valid or not training and not is_valid:
                     continue
 
-                img_path = os.path.join(self._base_dir, row[img_path_idx])
+                img_path = os.path.join(base_dir, row[img_path_idx])
                 img_class = row[class_idx]
                 self._data.append(_PathAndClass(img_path, img_class))
 
