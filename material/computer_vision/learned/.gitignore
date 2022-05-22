@@ -1,0 +1,3 @@
+# Ignore resources created by virtualenv.
+bin
+lib

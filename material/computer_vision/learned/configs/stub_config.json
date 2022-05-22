@@ -1,0 +1,9 @@
+{
+  "dataset": {
+    "name": "Imagenette",
+    "path": "/home/orphen/data/imagenette2/noisy_imagenette.csv"
+  },
+  "trainer": {
+    "num_iters": 1
+  }
+}
