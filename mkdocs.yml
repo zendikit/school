@@ -13,6 +13,13 @@ nav:
         - Introduction: 'japanese/grammar/introduction.md'
         - N5: 'japanese/grammar/n5.md'
         - N4: 'japanese/grammar/n4.md'
+  - Computer Vision:
+    - Learned:
+      - Introduction: 'computer_vision/learned/introduction.md'
+      - Engine:
+        - Skeleton: 'computer_vision/learned/engine/skeleton.md'
+        - Skeleton Implementation: 'computer_vision/learned/engine/skeleton_implementation.md'
+        - Datasets: 'computer_vision/learned/engine/datasets.md'
 
 theme:
   name: material
