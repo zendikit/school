@@ -11,18 +11,26 @@ from typing import Dict
 
 # Map JLPT to numerical IDs such that if sorting in ascending order N5 comes first.
 JLPT_TO_ID = {
-  "n5": 0,
-  "n4": 1,
-  "n3": 2,
-  "n2": 3,
-  "n1": 4
+    "n5": 0,
+    "n4": 1,
+    "n3": 2,
+    "n2": 3,
+    "n1": 4,
 }
 
 
 def parse_args() -> argparse.Namespace:
-    parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    parser.add_argument("json", help="The pathname to the Zendikit Japanese grammar JSON file.")
-    parser.add_argument("--out", help="The filename to write output into; default is ./grammar.csv.")
+    parser = argparse.ArgumentParser(
+        description=__doc__,
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+    )
+    parser.add_argument(
+        "json", help="The pathname to the Zendikit Japanese grammar JSON file."
+    )
+    parser.add_argument(
+        "--out",
+        help="The filename to write output into; default is ./grammar.csv.",
+    )
     return parser.parse_args()
 
 
@@ -57,7 +65,12 @@ def main():
             jp = '<div class="jp">'
             en = '<div class="en">'
             end = "</div>"
-            example_sentences = "".join([f"{jp}{e['jp']}{end}{en}{e['en']}{end}" for e in point["example_sentences"]])
+            example_sentences = "".join(
+                [
+                    f"{jp}{e['jp']}{end}{en}{e['en']}{end}"
+                    for e in point["example_sentences"]
+                ]
+            )
 
             csv_writer.writerow([sort, level, name, meaning, example_sentences])
 
