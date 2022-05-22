@@ -20,6 +20,7 @@ nav:
         - Skeleton: 'computer_vision/learned/engine/skeleton.md'
         - Skeleton Implementation: 'computer_vision/learned/engine/skeleton_implementation.md'
         - Datasets: 'computer_vision/learned/engine/datasets.md'
+        - Dataset Implementation: 'computer_vision/learned/engine/dataset_implementation.md'
         - Dataset Visualization: 'computer_vision/learned/engine/dataset_visualization.md'
         - Dataset Visualization Implementation: 'computer_vision/learned/engine/dataset_visualization_implementation.md'
 
