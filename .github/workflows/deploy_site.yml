@@ -1,0 +1,17 @@
+name: deploy_site
+on:
+  push:
+    paths-ignore:
+      - "material/**"
+jobs:
+  deploy_site:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v3
+        with:
+          python-version: "3.8"
+      - run: |
+          pip3 install mkdocs mkdocs-material
+          cd $GITHUB_WORKSPACE
+          mkdocs gh-deploy --force
