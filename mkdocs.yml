@@ -3,8 +3,8 @@ site_url: https://zendikit.school
 site_description: Zendikit educational material
 site_author: Zendikit
 
-docs_dir: site
-site_dir: docs
+docs_dir: docs
+site_dir: site
 
 nav:
   - Home: 'index.md'

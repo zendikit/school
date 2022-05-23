@@ -43,16 +43,20 @@ if __name__ == "__main__":
     main()
 ```
 
-We start by importing our configuration and dataset factories from their respective modules. We also anticipate some kind of model
-factory, so we import that as well.
+We start by importing our configuration and dataset factories from their
+respective modules. We also anticipate some kind of model factory, so we import
+that as well.
 
-We use `argparse` to build the command-line interface. Our interface takes a single, required argument, a pathname to a JSON
-configuration file. We also make the file's docstring part of the command-line help text.
+We use `argparse` to build the command-line interface. Our interface takes a
+single, required argument, a pathname to a JSON configuration file. We also make
+the file's docstring part of the command-line help text.
 
-Next we load our `config` and then the placeholders for our `dataset` and `model`.
+Next we load our `config` and then the placeholders for our `dataset` and
+`model`.
 
-Then, we enter the training loop. Our condition, the maximum number of iterations, is taken directly from the user-provided
-configuration. We don't have anything to do inside the training loop yet, so we `pass`.
+Then, we enter the training loop. Our condition, the maximum number of
+iterations, is taken directly from the user-provided configuration. We don't
+have anything to do inside the training loop yet, so we `pass`.
 
 ## configuration.py
 
@@ -73,9 +77,11 @@ def load_config(config_pathname: str) -> Dict:
         return json.load(f)
 ```
 
-For our documentation, we choose the [Doxygen style](https://www.doxygen.nl/manual/docblocks.html).
+For our documentation, we choose the
+[Doxygen style](https://www.doxygen.nl/manual/docblocks.html).
 
-We let `open` handle reporting issues with `config_pathname` such as file-not-found or not-a-regular-file errors.
+We let `open` handle reporting issues with `config_pathname` such as
+file-not-found or not-a-regular-file errors.
 
 ## datasets.py
 
@@ -88,14 +94,15 @@ def load_dataset() -> None:
     return None
 ```
 
-We have nothing to do here yet, so we simply return `None`. An alternative is raising `NotImplementedError`, but `None` allows us to
-run `trainer.py` from start to finish.
+We have nothing to do here yet, so we simply return `None`. An alternative is
+raising `NotImplementedError`, but `None` allows us to run `trainer.py` from
+start to finish.
 
 ## models.py
 
 Our model factory looks very similar to our dataset one at this time.
 
-## stub\_config.json
+## stub_config.json
 
 Our configuration looks like
 
@@ -111,5 +118,5 @@ The value is arbitrary at this time.
 
 ## Running trainer.py
 
-You should be able to run `trainer.py` without errors in your implementation, unless you chose to raise `NotImplementedError`s in your
-stubs.
+You should be able to run `trainer.py` without errors in your implementation,
+unless you chose to raise `NotImplementedError`s in your stubs.
