@@ -1,9 +1,11 @@
 name: deploy_site
 on:
   push:
+    branches:
+      - master
     paths:
-      - "docs/**"
-      - ".github/workflows/deploy_site.yaml"
+      - docs/**
+      - .github/workflows/deploy_site.yaml
 jobs:
   deploy_site:
     runs-on: ubuntu-latest
