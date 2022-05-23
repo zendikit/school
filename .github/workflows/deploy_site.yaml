@@ -1,8 +1,9 @@
 name: deploy_site
 on:
   push:
-    paths-ignore:
-      - "material/**"
+    paths:
+      - "docs/**"
+      - ".github/workflows/deploy_site.yaml"
 jobs:
   deploy_site:
     runs-on: ubuntu-latest
