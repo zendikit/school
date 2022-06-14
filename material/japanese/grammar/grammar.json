@@ -378,7 +378,7 @@
       "level": "n5",
       "name": "どちら",
       "meaning": "A word meaning \"which,\" among a group of things, particularly two.",
-      "exaple_sentences": [
+      "example_sentences": [
         {
           "jp": "日本語と英語と、<strong>どちら</strong>が面白い？",
           "en": "Between Japanese and English, <strong>which</strong> is more interesting?"
@@ -751,6 +751,315 @@
         {
           "jp": "私は公園<strong>を</strong>歩きました。",
           "en": "I walked <strong>through</strong> the park."
+        }
+      ]
+    },
+    {
+      "level": "n4",
+      "name": "おわる",
+      "meaning": "An auxiliary verb indicating that someone or something finishes doing something.",
+      "example_sentences": [
+        {
+          "jp": "私はこの本を読み<strong>終わりました</strong>。",
+          "en": "I <strong>finished</strong> reading this book."
+        }
+      ]
+    },
+    {
+      "level": "n4",
+      "name": "か",
+      "meaning": "A particle indicating an alternative.",
+      "example_sentences": [
+        {
+          "jp": "私は本を読む<strong>か</strong>テレビを見る<strong>かどちらかです</strong>。",
+          "en": "I will <strong>either</strong> read a book <strong>or</strong> watch TV."
+        },
+        {
+          "jp": "私は本<strong>か</strong>漫画を読みます。",
+          "en": "I will read <strong>either</strong> a book <strong>or</strong> manga."
+        }
+      ]
+    },
+    {
+      "level": "n4",
+      "name": "が",
+      "meaning": "A particle which indicates the subject of a clause.",
+      "example_sentences": [
+        {
+          "jp": "クラスには本<strong>が</strong>あります。",
+          "en": "There is a book in the classroom."
+        }
+      ]
+    },
+    {
+      "level": "n4",
+      "name": "すぎる",
+      "meaning": "An auxiliary verb indicating that something is excessive.",
+      "example_sentences": [
+        {
+          "jp": "この本は難し<strong>すぎる</strong>。",
+          "en": "This book is <strong>too</strong> difficult."
+        },
+        {
+          "jp": "私は勉強し<strong>すぎた</strong>。",
+          "en": "I studied <strong>too much</strong>."
+        }
+      ]
+    },
+    {
+      "level": "n4",
+      "name": "たり",
+      "meaning": "A phrase indicating a list of things non-exhaustively.",
+      "example_sentences": [
+        {
+          "jp": "日本語は難しかっ<strong>たり</strong>易しかっ<strong>たり</strong>です。",
+          "en": "Japanese is <strong>sometimes</strong> difficult and <strong>sometimes</strong> easy."
+        },
+        {
+          "jp": "学生は読ん<strong>だり</strong>勉強し<strong>たり</strong>です。",
+          "en": "Students do things <strong>like</strong> reading <strong>and</strong> writing."
+        }
+      ]
+    },
+    {
+      "level": "n4",
+      "name": "だす (出す)",
+      "meaning": "An auxiliary verb indicating that something has started.",
+      "example_sentences": [
+        {
+          "jp": "先生は急に話し<strong>出した</strong>。",
+          "en": "The teacher suddenly started speaking."
+        }
+      ]
+    },
+    {
+      "level": "n4",
+      "name": "てある",
+      "meaning": "An auxiliary verb indicating that something is in a resultant state, typically in anticipation or preparation for something else.",
+      "example_sentences": [
+        {
+          "jp": "私はもう勉強し<strong>てある</strong>。",
+          "en": "I've <strong>already studied</strong> [perhaps for some upcoming exam]."
+        },
+        {
+          "jp": "説明はこの本には書い<strong>てあります</strong>。",
+          "en": "The explanation <strong>is written</strong> in this book."
+        }
+      ]
+    },
+    {
+      "level": "n4",
+      "name": "ておく",
+      "meaning": "An auxiliary verb indicating that someone does something in advance for something or someone else.",
+      "example_sentences": [
+        {
+          "jp": "日本に行くから日本語を勉強し<strong>ておきます</strong>。",
+          "en": "I'll study Japanese <strong>in advance</strong> because I'm going to Japan."
+        }
+      ]
+    },
+    {
+      "level": "n4",
+      "name": "てしまう",
+      "meaning": "An auxiliary verb indicating completion of an action.",
+      "example_sentences": [
+        {
+          "jp": "この本を読ん<strong>でしまった</strong>。",
+          "en": "I <strong>finished</strong> reading this book."
+        }
+      ]
+    },
+    {
+      "level": "n4",
+      "name": "てしまう",
+      "meaning": "An auxiliary verb indicating that someone did something they should not have or that something happened that should not have.",
+      "example_sentences": [
+        {
+          "jp": "友達のビールを飲ん<strong>でしまいました</strong>。",
+          "en": "I <strong>accidentally</strong> drank my friend's beer."
+        }
+      ]
+    },
+    {
+      "level": "n4",
+      "name": "てもいい",
+      "meaning": "A phrase expressing permission. A more polite form replaces いい with かまいません, and an even more polite form replaces いい with よろしい.",
+      "example_sentences": [
+        {
+          "jp": "この本を読ん<strong>でもいい</strong>ですか。",
+          "en": "<strong>Is it alright if</strong> I read this book?"
+        },
+        {
+          "jp": "難しく<strong>てもいい</strong>です。",
+          "en": "<strong>It's alright if</strong> it's difficult."
+        },
+        {
+          "jp": "日本人じゃなく<strong>てもいい</strong>です。",
+          "en": "<strong>It's alright if</strong> you're not Japanese."
+        }
+      ]
+    },
+    {
+      "level": "n4",
+      "name": "で",
+      "meaning": "A particle indicating how much time something takes, money something costs, or when something ends.",
+      "example_sentences": [
+        {
+          "jp": "この本を百円<strong>で</strong>買いました。",
+          "en": "I bought this book <strong>for</strong> 100 yen."
+        },
+        {
+          "jp": "学校は 3 時<strong>で</strong>終わります。",
+          "en": "School ends <strong>at</strong> 3 o'clock."
+        },
+        {
+          "jp": "私は一時間<strong>で</strong>テストをしました。",
+          "en": "I completed the test <strong>in</strong> one hour."
+        }
+      ]
+    },
+    {
+      "level": "n4",
+      "name": "つづける （続ける）",
+      "meaning": "An auxiliary verb meaning, \"to keep on doing\" or \"to continue.\"",
+      "example_sentences": [
+        {
+          "jp": "本を読み<strong>続けて</strong>ください。",
+          "en": "Please <strong>continue</strong> reading the book."
+        }
+      ]
+    },
+    {
+      "level": "n4",
+      "name": "とか",
+      "meaning": "A conjunction listing two or more things as examples, inexhaustively.",
+      "example_sentences": [
+        {
+          "jp": "私は勉強する<strong>とか</strong>読むが好きです。",
+          "en": "I like things <strong>such as</strong> studying and reading."
+        },
+        {
+          "jp": "私は映画<strong>とか</strong>アニメ<strong>とか</strong>は見ます。",
+          "en": "I watch things <strong>such as</strong> movies and anime."
+        }
+      ]
+    },
+    {
+      "level": "n4",
+      "name": "なければならない",
+      "meaning": "A phrase indicating that someone must do something or that something must be in some state. There are numerous variations of this phrase.",
+      "example_sentences": [
+        {
+          "jp": "漢字を勉強し<strong>なければならない</strong>。",
+          "en": "You <strong>must</strong> study kanji."
+        },
+        {
+          "jp": "図書館で静か<strong>でなくてはいけない</strong>。",
+          "en": "You <strong>must</strong> be quiet in the library."
+        },
+        {
+          "jp": "割引は学生<strong>でないといけない</strong>。",
+          "en": "For the discount, you <strong>must</strong> be a student."
+        }
+      ]
+    },
+    {
+      "level": "n4",
+      "name": "にくい",
+      "meaning": "An auxiliary adjective indicating that someone or something is difficult to ~.",
+      "example_sentences": [
+        {
+          "jp": "この本は読み<strong>にくい</strong>です。",
+          "en": "This book is <strong>hard</strong> to read."
+        }
+      ]
+    },
+    {
+      "level": "n4",
+      "name": "はいけない",
+      "meaning": "A phrase indicating prohibition.",
+      "example_sentences": [
+        {
+          "jp": "授業で話して<strong>はいけません</strong>。",
+          "en": "You <strong>must not</strong> talk in class."
+        }
+      ]
+    },
+    {
+      "level": "n4",
+      "name": "はじめる (始める)",
+      "meaning": "An auxiliary verb indicating that someone or something starts something else.",
+      "example_sentences": [
+        {
+          "jp": "私はこの本を読み<strong>始めました</strong>。",
+          "en": "I <strong>started</strong> to read this book."
+        }
+      ]
+    },
+    {
+      "level": "n4",
+      "name": "ほうがいい (方がいい)",
+      "meaning": "A phrase indicating that it is strongly suggested that someone do something.",
+      "example_sentences": [
+        {
+          "jp": "漢字を勉強した<strong>方がいい</strong>。",
+          "en": "You <strong>should</strong> study kanji."
+        },
+        {
+          "jp": "勉強をスキップしない<strong>方がいい</strong>です。",
+          "en": "You <strong>should not</strong> skip studying."
+        }
+      ]
+    },
+    {
+      "level": "n4",
+      "name": "も",
+      "meaning": "A particle indicating emphasis of some object, quantity, concept, etc.",
+      "example_sentences": [
+        {
+          "jp": "私はこの本<strong>も</strong>読めます。",
+          "en": "I can read <strong>even</strong> this book."
+        },
+        {
+          "jp": "私はその本を見<strong>もしてない</strong>。",
+          "en": "I haven't <strong>even</strong> seen that book."
+        }
+      ]
+    },
+    {
+      "level": "n4",
+      "name": "も",
+      "meaning": "A particle often translated as \"also\" or \"too.\"",
+      "example_sentences": [
+        {
+          "jp": "私は日本語<strong>も</strong>話します。",
+          "en": "I speak Japanese, <strong>too</strong>."
+        },
+        {
+          "jp": "私<strong>も</strong>日本語を話します。",
+          "en": "I, <strong>too</strong>, speak Japanese."
+        }
+      ]
+    },
+    {
+      "level": "n4",
+      "name": "や",
+      "meaning": "A conjunction listing two or more nouns as examples, inexhaustively.",
+      "example_sentences": [
+        {
+          "jp": "日本語の本<strong>や</strong>英語の本を読みます。",
+          "en": "I read Japanese and English books, <strong>among others</strong>."
+        }
+      ]
+    },
+    {
+      "level": "n4",
+      "name": "やすい",
+      "meaning": "An auxiliary adjective indicating that someone or something is easy to ~.",
+      "example_sentences": [
+        {
+          "jp": "この本は読み<strong>やすい</strong>です。",
+          "en": "This book is <strong>easy</strong> to read."
         }
       ]
     }
