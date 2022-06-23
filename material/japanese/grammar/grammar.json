@@ -1062,6 +1062,28 @@
           "en": "This book is <strong>easy</strong> to read."
         }
       ]
+    },
+    {
+      "level": "n4",
+      "name": "てみる",
+      "meaning": "An auxiliary verb meaning to try something.",
+      "example_sentences": [
+        {
+          "jp": "この漢字を読ん<strong>でみて</strong>ください。",
+          "en": "Please <strong>try to</strong> read this kanji."
+        }
+      ]
+    },
+    {
+      "level": "n4",
+      "name": "ていく",
+      "meaning": "An auxiliary verb indicating a continuously changing state, often translated as \"to go on ~ing.\"",
+      "example_sentences": [
+        {
+          "jp": "これから難しくなっ<strong>ていきます</strong>。",
+          "en": "It will get more difficult from here on."
+        }
+      ]
     }
   ]
 }
