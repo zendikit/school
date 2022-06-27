@@ -1084,6 +1084,66 @@
           "en": "It will get more difficult from here on."
         }
       ]
+    },
+    {
+      "level": "n4",
+      "name": "られる",
+      "meaning": "An auxiliary verb used to construct passive statements.",
+      "example_sentences": [
+        {
+          "jp": "私は先生に叱<strong>られた</strong>。",
+          "en": "I <strong>was scolded</strong> by the teacher."
+        },
+        {
+          "jp": "私は先生から聞<strong>かれた</strong>。",
+          "en": "I <strong>was asked</strong> by the teacher."
+        }
+      ]
+    },
+    {
+      "level": "n4",
+      "name": "させる",
+      "meaning": "An auxiliary verb meaning to cause someone or something to do something.",
+      "example_sentences": [
+        {
+          "jp": "先生は私に漢字を書<strong>かせた</strong>。",
+          "en": "The teacher <strong>made</strong> me write kanji."
+        },
+        {
+          "jp": "私は友達に刺身を食べ<strong>させた</strong>。",
+          "en": "I <strong>made</strong> my friend eat sashimi."
+        }
+      ]
+    },
+    {
+      "level": "n4",
+      "name": "させられる",
+      "meaning": "An auxiliary verb meaning to be made to do something.",
+      "example_sentences": [
+        {
+          "jp": "私は先生に漢字で書<strong>かせられた</strong>。",
+          "en": "I <strong>was made to</strong> write in kanji by the teacher."
+        },
+        {
+          "jp": "友達は彼女に刺身を食べ<strong>させられた</strong>。",
+          "en": "My friend <strong>was made to</strong> eat sashimi by his girlfriend."
+        }
+      ]
+    },
+    {
+      "level": "n4",
+      "name": "させてください",
+      "meaning": "An auxiliary verb used to ask for permission to do something.",
+      "example_sentences": [
+        {
+          "jp": "ローマ字で書<strong>かせてください</strong>。",
+          "en": "<strong>Can I</strong> write in romaji?"
+        },
+        {
+          "jp": "これを食べ<strong>させてください</strong>。",
+          "en": "<strong>Can I</strong> eat this?"
+        }
+      ]
     }
   ]
 }
