@@ -1144,6 +1144,21 @@
           "en": "<strong>Can I</strong> eat this?"
         }
       ]
+    },
+    {
+      "level": "n4",
+      "name": "ことがある",
+      "meaning": "A phrase indicating that there was a time when something happened.",
+      "example_sentences": [
+        {
+          "jp": "私は日本語を勉強した<strong>ことある</strong>。",
+          "en": "<strong>I have</strong> studied Japanese."
+        },
+        {
+          "jp": "私は日本語を話せなかった<strong>ことがある</strong>。",
+          "en": "<strong>There was a time when</strong> I couldn't speak Japanese."
+        }
+      ]
     }
   ]
 }
