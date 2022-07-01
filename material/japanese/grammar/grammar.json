@@ -1159,6 +1159,36 @@
           "en": "<strong>There was a time when</strong> I couldn't speak Japanese."
         }
       ]
+    },
+    {
+      "level": "n4",
+      "name": "という",
+      "meaning": "A phrase A phrase marking information describing the thing that follows, often translated as \"that\" or \"is called.\"",
+      "example_sentences": [
+        {
+          "jp": "試験は難しかった<strong>という</strong>聞いた。",
+          "en": "I heard <strong>that</strong> the test was hard."
+        },
+        {
+          "jp": "「げんき」<strong>という</strong>教科書を使っている。",
+          "en": "I'm using a textbook <strong>called</strong> \"Genki.\""
+        }
+      ]
+    },
+    {
+      "level": "n4",
+      "name": "かどうか",
+      "meaning": "A particle meaning \"whether or not;\" the phrase preceding it must be a yes/no question.",
+      "example_sentences": [
+        {
+          "jp": "漢字を覚える<strong>かどうか</strong>分からない。",
+          "en": "I don't know <strong>whether or not</strong> I can learn kanji."
+        },
+        {
+          "jp": "高かった<strong>かどうか</strong>知りません。",
+          "en": "I don't know <strong>whether or not</strong> it was expensive."
+        }
+      ]
     }
   ]
 }
