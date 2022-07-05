@@ -1189,6 +1189,126 @@
           "en": "I don't know <strong>whether or not</strong> it was expensive."
         }
       ]
+    },
+    {
+      "level": "n4",
+      "name": "なら",
+      "meaning": "A conjunction meaning \"if.\"",
+      "example_sentences": [
+        {
+          "jp": "難しい<strong>なら</strong>勉強しません。",
+          "en": "<strong>If</strong> it's difficult, I won't study it."
+        },
+        {
+          "jp": "日本語が好き<strong>なら</strong>勉強した方がいい。",
+          "en": "<strong>If</strong> you like Japanese, you should study it."
+        }
+      ]
+    },
+    {
+      "level": "n4",
+      "name": "ば",
+      "meaning": "A conjunction meaning \"if.\"",
+      "example_sentences": [
+        {
+          "jp": "高<strong>ければ</strong>買いません。",
+          "en": "<strong>If</strong> it's expensive, I won't buy it."
+        },
+        {
+          "jp": "カフェは静か<strong>ならば</strong>勉強できる。",
+          "en": "<strong>If</strong> the cafe is quiet, I can study."
+        },
+        {
+          "jp": "公園に行<strong>けば</strong>帽子をかぶった方がいい。",
+          "en": "<strong>If</strong> you go to the park, you should wear a hat."
+        }
+      ]
+    },
+    {
+      "level": "n4",
+      "name": "たら",
+      "meaning": "A conjunction used to express \"if a then b\" or \"when a then b.\"",
+      "example_sentences": [
+        {
+          "jp": "もしテストがあっ<strong>たら</strong>勉強する。",
+          "en": "<strong>If</strong> there is a test, then I'll study."
+        },
+        {
+          "jp": "高かっ<strong>たら</strong>買わない。",
+          "en": "<strong>If</strong> it's expensive, then I won't buy it."
+        }
+      ]
+    },
+    {
+      "level": "n4",
+      "name": "と",
+      "meaning": "A conjunction indicating a conditional with an uncontrollable consequence.",
+      "example_sentences": [
+        {
+          "jp": "先生に聞く<strong>と</strong>分かる。",
+          "en": "<strong>If</strong> you ask the teacher, you'll understand."
+        },
+        {
+          "jp": "テストは難しくない<strong>と</strong>誰でも合格できます。",
+          "en": "<strong>If</strong> the test is not difficult, anyone can pass it."
+        }
+      ]
+    },
+    {
+      "level": "n4",
+      "name": "てくださいませんか",
+      "meaning": "An auxiliary verb used to politely make a request.",
+      "example_sentences": [
+        {
+          "jp": "日本語を教えて<strong>くださいませんか</strong>。",
+          "en": "<strong>Would you please</strong> teach me Japanese?"
+        },
+        {
+          "jp": "3時に来て<strong>くださいませんか</strong>。",
+          "en": "<strong>Would you please</strong> come at 3?"
+        }
+      ]
+    },
+    {
+      "level": "n4",
+      "name": "られる",
+      "meaning": "An auxiliary verb used to form honorifics with a politeness less than ますになる.",
+      "example_sentences": [
+        {
+          "jp": "私のレポートをもう読<strong>まれました</strong>か。",
+          "en": "Have you already read my report?"
+        },
+        {
+          "jp": "これは、先生が書<strong>かれた</strong>手紙です。",
+          "en": "This is a letter the teacher wrote."
+        }
+      ]
+    },
+    {
+      "level": "n4",
+      "name": "なさる",
+      "meaning": "The honorific (尊敬語) form of する.",
+      "example_sentences": [
+        {
+          "jp": "何<strong>なさいます</strong>か。",
+          "en": "What did you do?"
+        },
+        {
+          "jp": "先生はもうお散歩<strong>なさいました</strong>。",
+          "en": "The teacher already went for a walk."
+        }
+      ]
+    },
+    {
+      "level": "n4",
+      "name": "いたす",
+      "meaning": "A humble (謙譲語) form of する used when talking about yourself.",
+      "example_sentences": [
+        {
+          "jp": "私が<strong>いたします</strong>。",
+          "en": "I will <strong>do</strong> it."
+        }
+      ]
     }
   ]
 }
